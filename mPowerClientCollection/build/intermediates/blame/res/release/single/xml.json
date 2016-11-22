@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/xml/admin_preferences.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/xml/admin_preferences.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/xml/preferences.xml"
+    }
+]

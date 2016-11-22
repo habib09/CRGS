@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/menu/download_asset.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/menu/download_asset.xml"
+    }
+]

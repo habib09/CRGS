@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_send_network_value" translatable="false">
+		<item>by_size</item>
+		<item>by_priority</item>
+		<item>by_date</item>
+		<item>autosend_network_disable</item>
+	</string-array>
+    <string-array name="auto_send_wifi">
+		<item>@string/auto_send_by_size</item>
+		<item>@string/auto_send_by_priority</item>
+		<item>@string/auto_send_by_date</item>
+		<item>@string/auto_sending_is_disable</item>
+	</string-array>
+    <string-array name="auto_send_wifi_value" translatable="false">
+		<item>by_size</item>
+		<item>by_priority</item>
+		<item>by_date</item>
+		<item>autosend_wifi_disable</item>
+	</string-array>
+    <string-array name="constraint_behavior_entries">
+		<item>@string/constraint_behavior_on_swipe</item>
+		<item>@string/constraint_behavior_on_finalize</item>
+	</string-array>
+    <string-array name="constraint_behavior_entry_values" translatable="false">
+		<item>on_swipe</item>
+		<item>on_finalize</item>
+	</string-array>
+    <string-array name="font_size_entries">
+		<item>@string/font_size_extra_large</item>
+		<item>@string/font_size_large</item>
+		<item>@string/font_size_medium</item>
+		<item>@string/font_size_small</item>
+		<item>@string/font_size_extra_small</item>
+	</string-array>
+    <string-array name="font_size_entry_values" translatable="false">
+		<item>29</item>
+		<item>25</item>
+		<item>21</item>
+		<item>17</item>
+		<item>13</item>
+	</string-array>
+    <string-array name="language_change_options" translatable="false">
+	    <item>@string/english</item>
+	    <item>@string/bangla</item>
+	</string-array>
+    <string-array name="language_change_options_value" translatable="false">
+	    <item>en</item>
+	    <item>bn</item>
+	</string-array>
+    <string-array name="navigation_entries">
+		<item>@string/swipe_navigation</item>
+		<item>@string/buttons_navigation</item>
+		<item>@string/swipe_buttons_navigation</item>
+	</string-array>
+    <string-array name="navigation_entry_values" translatable="false">
+		<item>swipe</item>
+		<item>buttons</item>
+		<item>swipe_buttons</item>
+	</string-array>
+    <string-array name="priority_setting_entry">
+	    <item>High</item>
+	    <item>Medium</item>
+	    <item>Low</item>
+	    <item>Very Low</item>
+	</string-array>
+    <string-array name="protocol_entries">
+		<item>@string/server_platform_mpower</item>
+		<item>@string/server_platform_google_forms</item>
+		<item>@string/server_platform_other</item>
+	</string-array>
+    <string-array name="protocol_entry_values">
+		<item>@string/protocol_clientcollection_default</item>
+		<item>@string/protocol_google</item>
+		<item>@string/protocol_other</item>
+	</string-array>
+    <color name="apptheme_color">#ff4444</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#ec2226</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="crocus_purple">#9172EC</color>
+    <color name="form_color">#a02821</color>
+    <color name="mauve">#E0B0FF</color>
+    <color name="mpower_color">#810d1a</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="caption_text_size">50dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="form_entry_image_height">250dp</dimen>
+    <dimen name="form_entry_image_width">250dp</dimen>
+    <dimen name="form_entry_view_top_margin">30dp</dimen>
+    <dimen name="form_list_image_space">15dp</dimen>
+    <dimen name="form_list_main_view_padding_left">25dp</dimen>
+    <dimen name="form_list_main_view_padding_right">16dp</dimen>
+    <dimen name="form_list_txt_size">10sp</dimen>
+    <dimen name="form_save_image_height">250dp</dimen>
+    <dimen name="form_save_image_padding">20dp</dimen>
+    <dimen name="form_save_image_width">250dp</dimen>
+    <dimen name="form_save_margin_top">15dp</dimen>
+    <dimen name="login_first_image_size">180dp</dimen>
+    <dimen name="login_first_text_top_margin">25dp</dimen>
+    <dimen name="login_layout_width">200dip</dimen>
+    <dimen name="login_rest_text_top_margin">15dp</dimen>
+    <dimen name="main_menu_margin_top">1dp</dimen>
+    <dimen name="tab_host_default_height">48dp</dimen>
+    <dimen name="tool_bar_text_space">90dp</dimen>
+    <drawable name="black">#ff000000</drawable>
+    <drawable name="white">#ffffffff</drawable>
+    <item name="mapview" type="id"/>
+    <string name="accept_bearing">Record Bearing</string>
+    <string name="accept_location">Record Location</string>
+    <string name="access_error">Error while accessing %s: </string>
+    <string name="accuracy">Accuracy</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_not_found">No activity found to handle: %s</string>
+    <string name="add_another">Add Group</string>
+    <string name="add_another_repeat">Add another \"%s\" group?</string>
+    <string name="add_more">Add more</string>
+    <string name="add_repeat">Add a new \"%s\" group?</string>
+    <string name="add_repeat_no">Do Not Add</string>
+    <string name="added_on_date_at_time">\'Added on\' EEE, MMM dd, yyyy \'at\' HH:mm</string>
+    <string name="admin_access_settings">Tap for admin access to settings</string>
+    <string name="admin_password_changed">Admin password successfully changed</string>
+    <string name="admin_password_disabled">Admin password disabled</string>
+    <string name="admin_password_incorrect">Sorry, password is incorrect!</string>
+    <string name="admin_password_mismatch">Sorry, passwords do not match!</string>
+    <string name="admin_preferences">Admin Settings</string>
+    <string name="advance">forward to\nnext\nprompt</string>
+    <string name="altitude">Altitude</string>
+    <string name="app_name" translatable="false">ClientCollection</string>
+    <string name="app_url">http://mpower-social.com</string>
+    <string name="audio_file_error">No audio file was specified.</string>
+    <string name="audio_file_invalid">File: %s is not a valid audio file.</string>
+    <string name="auto_send_by_date">Auto Send By Date</string>
+    <string name="auto_send_by_priority">Auto Send By Priority</string>
+    <string name="auto_send_by_size">Auto Send By Size</string>
+    <string name="auto_sending_is_disable">Auto Sending is disable</string>
+    <string name="autosend">Auto Send</string>
+    <string name="autosend_network">Auto send with network</string>
+    <string name="autosend_network_summary">Auto send when network is available</string>
+    <string name="autosend_wifi">Auto send with Wi-Fi</string>
+    <string name="autosend_wifi_options">Auto send Options</string>
+    <string name="autosend_wifi_summary">Auto send when Wi-Fi is available</string>
+    <string name="backup">backward to\nprevious\nprompt</string>
+    <string name="bangla">Bangla</string>
+    <string name="barcode_scanner_error">Sorry, Barcode Scanner is not installed!</string>
+    <string name="buttons_instructions">You are at the start of %s. Tap the arrow buttons below to go backward and forward.</string>
+    <string name="buttons_navigation">Use forward/backward buttons</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_loading_form">Cancel</string>
+    <string name="cancel_location">Cancel</string>
+    <string name="cancel_saving_form">Cancel</string>
+    <string name="cannot_edit_completed_form">This form cannot be edited once it has been marked as complete. It may be encrypted.</string>
+    <string name="caption_name">MY BAREFOOT LAWYER</string>
+    <string name="capture_audio">Record Sound</string>
+    <string name="capture_image">Take Picture</string>
+    <string name="capture_video">Record Video</string>
+    <string name="change_font_size">Text font size</string>
+    <string name="change_formlist_url">Form list path (appended to URL)</string>
+    <string name="change_language">Change Language</string>
+    <string name="change_password">ClientCollection Password</string>
+    <string name="change_password_menu">Change Password</string>
+    <string name="change_protocol">Platform</string>
+    <string name="change_server">Platform</string>
+    <string name="change_server_url">URL</string>
+    <string name="change_splash_path">Change image</string>
+    <string name="change_submission_url">Submission path (appended to URL)</string>
+    <string name="change_url_default">URL</string>
+    <string name="change_username">ClientCollection Username</string>
+    <string name="change_username_default">Username</string>
+    <string name="change_view">Change View</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="choose_sound">Choose Sound</string>
+    <string name="choose_video">Choose Video</string>
+    <string name="clear_answer">Remove response</string>
+    <string name="clear_answer_ask">Remove This Response?</string>
+    <string name="clear_answer_no">Cancel</string>
+    <string name="clearanswer_confirm">Remove the response to \"%s\"?</string>
+    <string name="click_to_web">Tap to visit http://mpower-social.com</string>
+    <string name="client">User Interface</string>
+    <string name="completed_data">Complete (%s)</string>
+    <string name="constraint_behavior">Constraint processing behavior</string>
+    <string name="constraint_behavior_on_finalize">Defer validation until finalized</string>
+    <string name="constraint_behavior_on_swipe">Validate upon forward swipe</string>
+    <string name="data">Saved Forms</string>
+    <string name="data_saved_error">Sorry, form save failed!</string>
+    <string name="data_saved_ok">Form successfully saved!</string>
+    <string name="data_transfer_in_progress_">Data transfer in progress....</string>
+    <string name="default_clientcollection_formlist" translatable="false">/m/formList</string>
+    <string name="default_clientcollection_submission" translatable="false">/m/submission</string>
+    <string name="default_completed">Default to finalized</string>
+    <string name="default_completed_summary">Mark form as finalized by default</string>
+    <string name="default_server_url" translatable="false">http://27.147.138.56:7000</string>
+    <string name="default_splash_path">ClientCollection Default</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirm">Delete %s form(s)?</string>
+    <string name="delete_file">Delete Selected</string>
+    <string name="delete_no">Do Not Delete</string>
+    <string name="delete_repeat">Remove group</string>
+    <string name="delete_repeat_ask">Remove This Group?</string>
+    <string name="delete_repeat_confirm">Remove group \"%s\" and all of its sub-groups?</string>
+    <string name="delete_repeat_no">Cancel</string>
+    <string name="delete_yes">Delete Forms</string>
+    <string name="discard_answer">Remove response</string>
+    <string name="discard_group">Remove group</string>
+    <string name="do_not_change">Cancel</string>
+    <string name="do_not_exit">Cancel</string>
+    <string name="do_not_save">Ignore Changes</string>
+    <string name="download">Get Selected</string>
+    <string name="download_form">Download Form</string>
+    <string name="download_forms_result">Download Result</string>
+    <string name="downloading_data">Connecting to Server</string>
+    <string name="draw_image">Sketch Image</string>
+    <string name="edit_prompt">Edit Prompt</string>
+    <string name="english">English</string>
+    <string name="enter_admin_password">Enter Admin Password</string>
+    <string name="enter_data">Fill Blank Form</string>
+    <string name="enter_data_button">Fill Blank Form</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="entering_repeat">Add Group</string>
+    <string name="entering_repeat_ask">Add New Group?</string>
+    <string name="error_in_push_service_ping_operation_">Error in push service ping operation!</string>
+    <string name="error_occured">Error Occurred</string>
+    <string name="fetching_file">Getting %1$s.\n\nForm %2$s of %3$s form(s).</string>
+    <string name="fetching_manifest">%s. Getting manifest </string>
+    <string name="file_delete_in_progress">Sorry, a form delete action is already in progress!</string>
+    <string name="file_deleted_error">Sorry, %1$s of %2$s selected form(s) failed to delete!</string>
+    <string name="file_deleted_ok">%s form(s) successfully deleted!</string>
+    <string name="file_fetch_failed">Error: %2$s (%3$s) at %1$s</string>
+    <string name="file_invalid">File: %s is invalid.</string>
+    <string name="file_missing">File: %s is missing.</string>
+    <string name="finalized_on_date_at_time">\'Finalized on\' EEE, MMM dd, yyyy \'at\' HH:mm</string>
+    <string name="finished_disk_scan">Finished scanning. All forms loaded.</string>
+    <string name="first_form_msg">Report problems regarding to you school\'s drinking water and supply</string>
+    <string name="font_size">Text font size</string>
+    <string name="font_size_extra_large">Extra Large</string>
+    <string name="font_size_extra_small">Extra Small</string>
+    <string name="font_size_large">Large</string>
+    <string name="font_size_medium">Medium</string>
+    <string name="font_size_small">Small</string>
+    <string name="form_backward">Prev</string>
+    <string name="form_download_progress">%1$s. Getting media files: %2$s of %3$s</string>
+    <string name="form_forward">Next</string>
+    <string name="form_provider_authority">com.mpower.clientcollection.provider.clientcollection.forms</string>
+    <string name="form_scan_starting">Scanning for forms…</string>
+    <string name="formlist_url">Form list path</string>
+    <string name="forms">Blank Forms</string>
+    <string name="found_at_end">Uncheck to hide from end of Form Entry</string>
+    <string name="found_in_main">Uncheck to hide from Main Menu</string>
+    <string name="found_in_menu">Uncheck to hide from menu in Form Entry</string>
+    <string name="found_in_settings">Uncheck to hide from General Settings</string>
+    <string name="fourth_form_msg">Report problems regarding to you school\'s sports, recreational facilities and capacities</string>
+    <string name="general_preferences">General Settings</string>
+    <string name="get_barcode">Get Barcode</string>
+    <string name="get_bearing">Record Bearing</string>
+    <string name="get_forms">Get Blank Form</string>
+    <string name="get_location">Record Location</string>
+    <string name="get_qrcode">Get QR Code</string>
+    <string name="getting_bearing">Loading Bearing</string>
+    <string name="getting_location">Loading Location</string>
+    <string name="go_to_location">Go to Location</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDj1RnHyXQ1XIoDiMCSZ27TphtGdzrsqk8
+    </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="human">Human</string>
+    <string name="instance_provider_authority">com.mpower.clientcollection.provider.clientcollection.instances</string>
+    <string name="invalid_answer_error">Sorry, this response is invalid!</string>
+    <string name="jump_to_beginning">Go To Start</string>
+    <string name="jump_to_end">Go To End</string>
+    <string name="jump_to_previous">Go Up</string>
+    <string name="keep_changes">Save Changes</string>
+    <string name="language_setting">Language Setting</string>
+    <string name="language_setting_summary">Your selected language is %s</string>
+    <string name="latitude">Latitude</string>
+    <string name="launch_app">Launch</string>
+    <string name="launch_printer">Initiate Printing</string>
+    <string name="leave_repeat_yes">Do Not Add</string>
+    <string name="leaving_repeat_ask">Add One More Group?</string>
+    <string name="list_failed_with_error">Form listing failed. %s.</string>
+    <string name="list_of_language">List of Language</string>
+    <string name="load_remote_form_error">Error Getting Form List</string>
+    <string name="loading_form">Loading Form</string>
+    <string name="location_accuracy">Accuracy is %1$s m</string>
+    <string name="location_provider_accuracy">Using %1$s. Accuracy is %2$s m.</string>
+    <string name="logout">Logout</string>
+    <string name="longitude">Longitude</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="main_menu_details">Data collection made easier…</string>
+    <string name="main_menu_message">ClientCollection v1.4.0</string>
+    <string name="manage_files">Delete Saved Form</string>
+    <string name="manifest_server_error">Manifest reply does not report an OpenRosa version — bad server?</string>
+    <string name="manifest_tag_error">Manifest entry %s is missing one or more tags: filename, hash, or downloadUrl</string>
+    <string name="mark_finished">Mark form as finalized</string>
+    <string name="markup_image">Markup Image</string>
+    <string name="me">Me</string>
+    <string name="mqtt_port">1886</string>
+    <string name="mqtt_port_number">Port Number</string>
+    <string name="mqtt_setting">MQTT Port</string>
+    <string name="navigation">Navigation</string>
+    <string name="new_data">New</string>
+    <string name="no_account">No account</string>
+    <string name="no_app">The requested application is missing. Please manually enter the reading.</string>
+    <string name="no_connection">No network connection available</string>
+    <string name="no_forms_uploaded">Sorry, no form was uploaded.</string>
+    <string name="no_items_display">Nothing available to display.</string>
+    <string name="no_items_display_forms">Nothing available to display.\n\nTry getting and filling out a blank form.</string>
+    <string name="no_items_display_instances">Nothing available to display.\n\nTry finalizing saved forms before sending.</string>
+    <string name="no_printer">The requested printer is not installed. Please install the printer.</string>
+    <string name="noselect_error">Sorry, you have not selected any forms!</string>
+    <string name="ok">OK</string>
+    <string name="open_url">Open Url</string>
+    <string name="parent_form_not_present">Unable to edit this saved form because the corresponding blank form is not present or was deleted.\n\nForm ID: %1$s</string>
+    <string name="parse_error">Sorry, unable to parse form.</string>
+    <string name="parse_legacy_formlist_failed">The server has not provided an available-forms document compatible with Aggregate 0.9.x. : %s</string>
+    <string name="parse_openrosa_formlist_failed">The server has not provided an available-forms document compatible with the OpenRosa version 1.0 standard: %s</string>
+    <string name="password">Password</string>
+    <string name="play_audio">Play Sound</string>
+    <string name="play_video">Play Video</string>
+    <string name="please_wait">Please wait a few moments.</string>
+    <string name="please_wait_long">Please wait. This could take a few minutes.</string>
+    <string name="port_error">Sorry, invalid PORT!</string>
+    <string name="priority_prompt">Choose priority range</string>
+    <string name="protocol">Platform</string>
+    <string name="protocol_clientcollection_default" translatable="false">clientcollection_default</string>
+    <string name="protocol_google" translatable="false">google</string>
+    <string name="protocol_other" translatable="false"/>
+    <string name="provider_disabled_error">Sorry, Location providers are disabled!</string>
+    <string name="qrcode_scanner_error">Sorry, QRcode Scanner is not installed!</string>
+    <string name="quit_application">Exit %s</string>
+    <string name="quit_entry">Save Form and Exit</string>
+    <string name="refresh">Refresh</string>
+    <string name="replace_barcode">Replace Barcode</string>
+    <string name="replace_bearing">Replace Bearing</string>
+    <string name="replace_location">Replace Location</string>
+    <string name="replace_qrcode">Replace QR Code</string>
+    <string name="required_answer_error">Sorry, this response is required!</string>
+    <string name="reset_image">Reset</string>
+    <string name="review_data">Edit Saved Form</string>
+    <string name="review_data_button">Edit Saved Form (%s)</string>
+    <string name="root_element_error">Root element is not &lt;manifest\> — was %s</string>
+    <string name="root_namespace_error">Root element Namespace is incorrect: %s</string>
+    <string name="save_all_answers">Save Form</string>
+    <string name="save_and_close">Save and Close</string>
+    <string name="save_as_error">Saved name must not be blank!</string>
+    <string name="save_enter_data_description">You are at the end of %s.</string>
+    <string name="save_form_as">Name this form</string>
+    <string name="save_mid">Save Form</string>
+    <string name="save_preferences">Save Settings to Disk</string>
+    <string name="saved_data">Incomplete (%s)</string>
+    <string name="saved_on_date_at_time">\'Saved on\' EEE, MMM dd, yyyy \'at\' HH:mm</string>
+    <string name="savepoint_used">Unsaved changes recovered from savepoint!</string>
+    <string name="saving_form">Saving Form</string>
+    <string name="second_form_msg">Report problems regarding to you school\'s sanitation facilities and its respective condition</string>
+    <string name="select_another_image">Select another image</string>
+    <string name="select_answer">Select Answer</string>
+    <string name="select_drawing_color">Select Drawing Color</string>
+    <string name="select_one">Select One Answer</string>
+    <string name="selected">Selected: </string>
+    <string name="selected_google_account_text">Google account</string>
+    <string name="send_data">Send Finalized Form</string>
+    <string name="send_data_button">Send Finalized Form (%s)</string>
+    <string name="send_selected_data">Send Selected</string>
+    <string name="sending_failed_on_date_at_time">\'Sending failed on\' EEE, MMM dd, yyyy \'at\' HH:mm</string>
+    <string name="sending_items">Sending %1$s of %2$s form(s)</string>
+    <string name="sent_on_date_at_time">\'Sent on\' EEE, MMM dd, yyyy \'at\' HH:mm</string>
+    <string name="server_auth_credentials">Please enter username and password for server:\n%s</string>
+    <string name="server_platform_clientcollection_aggregate">mInter Server</string>
+    <string name="server_platform_google_forms">Google Forms</string>
+    <string name="server_platform_mpower" translatable="false">mPower Server</string>
+    <string name="server_platform_other">Other</string>
+    <string name="server_preferences">Server Settings</string>
+    <string name="server_requires_auth">Server Requires Authentication</string>
+    <string name="server_url">URL</string>
+    <string name="set_color">Set Color</string>
+    <string name="settings">Settings</string>
+    <string name="show_location">Show Location</string>
+    <string name="show_sent_and_unsent_forms">Show Sent and Unsent Forms</string>
+    <string name="show_splash">Show splash screen</string>
+    <string name="show_splash_summary">Shows when application starts</string>
+    <string name="show_unsent_forms">Show Unsent Forms</string>
+    <string name="sign_button">Gather Signature</string>
+    <string name="splash_path">Selected splash image</string>
+    <string name="submission_url">Submission path</string>
+    <string name="success">Success</string>
+    <string name="swipe_buttons_instructions">You are at the start of %s. Swipe the screen as shown below or tap the arrow buttons to go backward and forward.</string>
+    <string name="swipe_buttons_navigation">Use swipes and buttons</string>
+    <string name="swipe_instructions">You are at the start of %s. Swipe the screen as shown below to go backward and forward.</string>
+    <string name="swipe_navigation">Use horizontal swipes</string>
+    <string name="third_form_msg">Report problems regarding to you school\'s general cleanliness and hygiene situation</string>
+    <string name="this_feature_will_delete_whole_thread">This feature will delete whole thread</string>
+    <string name="this_message_will_be_deleted">This message will be deleted</string>
+    <string name="timeout">30</string>
+    <string name="title_activity_crgs_form_start">Report Form</string>
+    <string name="title_activity_crgs_instance_chooser">Review Report</string>
+    <string name="title_activity_download_asset">DownloadAssetActivity</string>
+    <string name="title_activity_ine_draw">ineDrawActivity</string>
+    <string name="title_activity_line_draw">LineDrawActivity</string>
+    <string name="title_activity_re_arranging">ReArrangingActivity</string>
+    <string name="toggle_selected">Toggle All</string>
+    <string name="trigger">OK. Please continue.</string>
+    <string name="upload_results">Upload Results</string>
+    <string name="uploading_data">Sending Form</string>
+    <string name="url">http://mpower-social.com</string>
+    <string name="url_error">Sorry, invalid URL!</string>
+    <string name="use_clientcollection_default">Use default image</string>
+    <string name="user_access_form_entry">User can access Form Entry items:</string>
+    <string name="user_access_main_menu">User can access Main Menu items:</string>
+    <string name="user_access_preferences">User can access Change Settings items:</string>
+    <string name="username">Username</string>
+    <string name="validated_with_server">Validated with server</string>
+    <string name="verify_new_password">Re-enter new password</string>
+    <string name="version">Version:</string>
+    <string name="view_change_location">View or Change Location</string>
+    <string name="view_hierarchy">Go To Prompt</string>
+    <string name="xform_parse_error">XForm parse error. %1$s is missing element %2$s</string>
+    <style name="AppBaseThemes" parent="Theme.AppCompat.NoActionBar">
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="android:radioButtonStyle">@android:style/Widget.Holo.CompoundButton.RadioButton</item>
+        <item name="checkboxStyle">@android:style/Widget.Holo.CompoundButton.CheckBox</item>
+        
+    </style>
+    <style name="AppThemes" parent="AppBaseThemes">
+        
+    </style>
+    <style name="AppThemes.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppThemes.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="ProgressBarmpower" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/mpower_progress_horizontal_holo_light</item>
+        <item name="android:indeterminateDrawable">
+            @drawable/mpower_progress_indeterminate_horizontal_holo_light
+        </item>
+        <item name="android:minHeight">16dip</item>
+        <item name="android:maxHeight">16dip</item>
+    </style>
+    <style name="SeekBarmpower" parent="android:Widget.SeekBar">
+        <item name="android:progressDrawable">
+            @drawable/mpower_scrubber_progress_horizontal_holo_light
+        </item>
+        <item name="android:indeterminateDrawable">
+            @drawable/mpower_scrubber_progress_horizontal_holo_light
+        </item>
+        <item name="android:minHeight">13dip</item>
+        <item name="android:maxHeight">13dip</item>
+        <item name="android:thumb">@drawable/mpower_scrubber_control_selector_holo_light</item>
+        <item name="android:thumbOffset">16dip</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+    </style>
+    <style name="TabTextmpower">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:maxWidth">180dip</item>
+    </style>
+    <style name="Tabmpower">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+        <item name="android:background">@drawable/mpower_tab_indicator_holo</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:minWidth">80dip</item>
+    </style>
+    <style name="WhiteBaseThemes" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

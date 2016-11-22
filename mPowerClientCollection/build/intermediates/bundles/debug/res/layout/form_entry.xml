@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright (C) 2009 University of Washington
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.mpower.clientcollection.activities.FormEntryActivity"
+    tools:showIn="@layout/activity_form_entry"
+    android:background="@color/form_color">
+
+    <RelativeLayout
+        android:id="@+id/rela_layout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="1dp"
+        android:background="@android:color/white">
+
+        <ImageView
+            android:id="@+id/imageViewFormTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="37dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:src="@drawable/water_icon" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="37dp"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@+id/imageViewFormTitle"
+            android:layout_toRightOf="@+id/imageViewFormTitle"
+            android:textColor="@android:color/black"
+            android:text="Report Category" />
+
+        <TextView
+            android:id="@+id/textViewFormTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView4"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="37dp"
+            android:layout_marginStart="17dp"
+            android:layout_toEndOf="@+id/imageViewFormTitle"
+            android:layout_toRightOf="@+id/imageViewFormTitle"
+            android:text="Drinking Water"
+            android:textColor="@android:color/black"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/questionholder"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/rela_layout"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/buttonholder"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/form_color"
+        android:orientation="horizontal"
+        android:paddingBottom="0dip"
+        android:paddingLeft="4dip"
+        android:paddingRight="4dip"
+        android:paddingTop="4dip">
+
+        <ImageButton
+            android:id="@+id/form_back_button"
+            android:layout_width="0dip"
+            android:layout_height="50dip"
+            android:layout_weight="1"
+            android:contentDescription="@string/form_backward"
+            android:src="@drawable/ic_menu_backward"
+            android:textSize="12sp" />
+
+        <ImageButton
+            android:id="@+id/form_forward_button"
+            android:layout_width="0dip"
+            android:layout_height="50dip"
+            android:layout_weight="1"
+            android:contentDescription="@string/form_forward"
+            android:src="@drawable/ic_menu_forward"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</RelativeLayout>

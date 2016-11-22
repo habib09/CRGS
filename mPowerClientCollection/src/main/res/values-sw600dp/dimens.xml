@@ -1,0 +1,31 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw600dp devices (e.g. 7" tablets) here.
+    -->
+    <dimen name="form_list_image_space">30dp</dimen>
+    <dimen name="form_list_main_view_padding_left">75dp</dimen>
+    <dimen name="form_list_main_view_padding_right">46dp</dimen>
+    <dimen name="form_list_txt_size">15sp</dimen>
+
+    <dimen name="tool_bar_text_space">140dp</dimen>
+
+    <dimen name="login_layout_width">350dip</dimen>
+    <dimen name="login_first_image_size">290dp</dimen>
+    <dimen name="login_first_text_top_margin">50dp</dimen>
+    <dimen name="login_rest_text_top_margin">35dp</dimen>
+
+
+    <dimen name="form_save_image_padding">30dp</dimen>
+    <dimen name="form_save_margin_top">40dp</dimen>
+    <dimen name="form_save_image_width">400dp</dimen>
+    <dimen name="form_save_image_height">400dp</dimen>
+
+    <dimen name="main_menu_margin_top">20dp</dimen>
+
+    <dimen name="form_entry_image_width">400dp</dimen>
+    <dimen name="form_entry_image_height">400dp</dimen>
+    <dimen name="form_entry_view_top_margin">50dp</dimen>
+
+</resources>

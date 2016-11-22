@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="caption_text_size">50dp</dimen>
+
+    <dimen name="form_list_image_space">15dp</dimen>
+    <dimen name="form_list_main_view_padding_left">25dp</dimen>
+    <dimen name="form_list_main_view_padding_right">16dp</dimen>
+    <dimen name="form_list_txt_size">10sp</dimen>
+
+    <dimen name="tool_bar_text_space">90dp</dimen>
+
+    <dimen name="login_layout_width">200dip</dimen>
+    <dimen name="login_first_image_size">180dp</dimen>
+    <dimen name="login_first_text_top_margin">25dp</dimen>
+    <dimen name="login_rest_text_top_margin">15dp</dimen>
+
+    <dimen name="form_save_image_padding">20dp</dimen>
+    <dimen name="form_save_margin_top">15dp</dimen>
+    <dimen name="form_save_image_width">250dp</dimen>
+    <dimen name="form_save_image_height">250dp</dimen>
+
+    <dimen name="main_menu_margin_top">1dp</dimen>
+
+
+    <dimen name="form_entry_image_width">250dp</dimen>
+    <dimen name="form_entry_image_height">250dp</dimen>
+    <dimen name="form_entry_view_top_margin">30dp</dimen>
+
+</resources>

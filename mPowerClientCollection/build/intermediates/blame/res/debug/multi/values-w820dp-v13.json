@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 54,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 54,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 58,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 58,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 51,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 51,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 57,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 57,
+                        "endOffset": 569
+                    }
+                }
+            }
+        ]
+    }
+]

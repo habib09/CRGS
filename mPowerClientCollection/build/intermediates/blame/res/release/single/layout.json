@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/geopoint_layout_sdk7.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/geopoint_layout_sdk7.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/form_entry_end.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/form_entry_end.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/toast_view.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/toast_view.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/instance_uploader_xml_list.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/instance_uploader_xml_list.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/mpower_tab_indicator_holo.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/mpower_tab_indicator_holo.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/password_dialog_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/password_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/content_re_arranging.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/content_re_arranging.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/circlewithrelative.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/circlewithrelative.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/two_item.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/two_item.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/form_entry.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/form_entry.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/chooser_list_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/chooser_list_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/activity_re_arranging.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/activity_re_arranging.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/server_auth_dialog.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/server_auth_dialog.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/msg_row.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/msg_row.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/activity_crgs_instance_chooser.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/activity_crgs_instance_chooser.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/login_screen.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/login_screen.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/draw_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/draw_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/activity_webservice.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/activity_webservice.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/activity_line_draw.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/activity_line_draw.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/form_manage_list.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/form_manage_list.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/instance_uploader_list.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/instance_uploader_list.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/login_screen_content.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/login_screen_content.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/main_menu.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/main_menu.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/details_msg_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/details_msg_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/activity_download_asset.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/activity_download_asset.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/activity_crgs_form_uploader.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/activity_crgs_form_uploader.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/header_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/header_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/content_line_draw.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/content_line_draw.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/splash_screen.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/content_crgs_instance_chooser.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/content_crgs_instance_chooser.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/quick_select_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/quick_select_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/msg_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/msg_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/custom_spinner_item.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/custom_spinner_item.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/details_msg_row.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/details_msg_row.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/two_item_multiple_choice.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/two_item_multiple_choice.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/content_main_view.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/content_main_view.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/geopoint_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/geopoint_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/drag_drop_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/drag_drop_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/activity_crgs_form_start.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/activity_crgs_form_start.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/activity_main_view.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/activity_main_view.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/hierarchy_layout.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/hierarchy_layout.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/form_entry_start.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/form_entry_start.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/data_manage_list.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/data_manage_list.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/activity_html_test_activty.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/activity_html_test_activty.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/rearrange_widget.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/rearrange_widget.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/content_crgs_form_start.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/content_crgs_form_start.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/crgs_instance_chooser_list.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/crgs_instance_chooser_list.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/remote_file_manage_list.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/remote_file_manage_list.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/activity_form_entry.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/layout/activity_form_entry.xml"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    }
+]
