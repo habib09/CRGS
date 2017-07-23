@@ -36,7 +36,6 @@ import com.mpower.clientcollection.R;
 import com.mpower.clientcollection.activities.FormEntryActivity;
 import com.mpower.clientcollection.activities.GeoPointActivity;
 import com.mpower.clientcollection.activities.GeoPointMapActivity;
-import com.mpower.clientcollection.activities.GeoPointMapActivitySdk7;
 import com.mpower.clientcollection.application.ClientCollection;
 import com.mpower.clientcollection.utilities.CompatibilityUtils;
 
@@ -147,10 +146,10 @@ public class GeoPointWidget extends QuestionWidget implements IBinaryWidget {
 				Intent i;
 				if (mUseMapsV2 ) {
 					i = new Intent(getContext(), GeoPointMapActivity.class);
-				} else {
+				} /*else {
 					i = new Intent(getContext(), GeoPointMapActivitySdk7.class);
-				}
-
+				}*/
+				i=new Intent(getContext(),GeoPointMapActivity.class);
 				String s = mStringAnswer.getText().toString();
 				if ( s.length() != 0 ) {
 					String[] sa = s.split(" ");
@@ -187,9 +186,9 @@ public class GeoPointWidget extends QuestionWidget implements IBinaryWidget {
 				Intent i = null;
 				if ( mUseMapsV2 ) {
 					i = new Intent(getContext(), GeoPointMapActivity.class);
-				} else if (mUseMaps) {
+				} /*else if (mUseMaps) {
 					i = new Intent(getContext(), GeoPointMapActivitySdk7.class);
-				} else {
+				} */else {
 					i = new Intent(getContext(), GeoPointActivity.class);
 				}
 

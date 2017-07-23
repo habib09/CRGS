@@ -4,12 +4,12 @@
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/mpower_rate_star_big_half_holo_light.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mpower_rate_star_big_half_holo_light.png"
-    },
-    {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/mpower_rate_star_big_half_holo_light.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mpower_rate_star_big_half_holo_light.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
@@ -56,12 +56,12 @@
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mpower_rate_star_big_off_holo_light.png"
     },
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",

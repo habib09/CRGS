@@ -544,7 +544,7 @@
     <string name="default_clientcollection_submission" translatable="false">/m/submission</string>
     <string name="default_completed">Default to finalized</string>
     <string name="default_completed_summary">Mark form as finalized by default</string>
-    <string name="default_server_url" translatable="false">http://mpower-social.com</string>
+    <string name="default_server_url" translatable="false">http://27.147.138.56:7000</string>
     <string name="default_splash_path">ClientCollection Default</string>
     <string name="delete">Delete</string>
     <string name="delete_confirm">Delete %s form(s)?</string>

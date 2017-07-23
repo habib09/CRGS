@@ -9,6 +9,6 @@ package com.mpower.clientcollection.test;
 
 public final class Manifest {
     public static final class permission {
-        public static final String MAPS_RECEIVE="org.opendatakit.tables.permission.MAPS_RECEIVE";
+        public static final String MAPS_RECEIVE="com.mpower.clientcollection.test.org.opendatakit.tables.permission.MAPS_RECEIVE";
     }
 }

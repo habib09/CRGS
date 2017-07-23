@@ -19,7 +19,8 @@ the License.
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:layout_alignParentTop="true" >
+    android:layout_alignParentTop="true"
+    android:background="@color/colorPrimary">
     
      <LinearLayout
         android:id="@+id/buttonholder"
@@ -75,9 +76,6 @@ the License.
             android:gravity="center"
             android:text="@string/no_items_display"
             android:textSize="21sp" />
-
-
-    
 
 
 </RelativeLayout>

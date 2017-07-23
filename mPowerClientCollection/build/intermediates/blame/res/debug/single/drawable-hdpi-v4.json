@@ -24,12 +24,12 @@
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-hdpi/mpower_switch_bg_holo_light.9.png"
     },
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-hdpi-v4/mpower_btn_check_off_disabled_focused_holo_light.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-hdpi/mpower_btn_check_off_disabled_focused_holo_light.png"
-    },
-    {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_close_clear_cancel.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-hdpi/ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-hdpi-v4/mpower_btn_check_off_disabled_focused_holo_light.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-hdpi/mpower_btn_check_off_disabled_focused_holo_light.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-hdpi-v4/mpower_btn_toggle_off_pressed_holo_light.9.png",

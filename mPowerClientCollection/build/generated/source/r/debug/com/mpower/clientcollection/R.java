@@ -3729,7 +3729,15 @@ containing a value of this type.
  API 14 theme customizations can go here. 
          */
         public static int AppBaseTheme=0x7f09000c;
+        /** 
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        
+         */
         public static int AppBaseThemes=0x7f09008d;
+        /**  All customizations that are NOT specific to a particular API-level can go here. 
+         */
         public static int AppThemes=0x7f09008e;
         public static int AppThemes_AppBarOverlay=0x7f09008f;
         public static int AppThemes_PopupOverlay=0x7f090090;

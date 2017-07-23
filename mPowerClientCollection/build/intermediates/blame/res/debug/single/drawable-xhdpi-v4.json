@@ -1,19 +1,19 @@
 [
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_btn_radio_off_disabled_holo_light.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_btn_radio_off_disabled_holo_light.png"
-    },
-    {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_btn_check_off_disabled_holo_light.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_btn_check_off_disabled_holo_light.png"
     },
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_btn_radio_off_disabled_holo_light.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_btn_radio_off_disabled_holo_light.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png",
@@ -84,12 +84,12 @@
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_btn_rating_star_on_pressed_holo_light.png"
     },
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_btn_toggle_on_normal_holo_light.9.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_btn_toggle_on_normal_holo_light.9.png"
-    },
-    {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_list_pressed_holo_light.9.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_btn_toggle_on_normal_holo_light.9.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_btn_toggle_on_normal_holo_light.9.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_list_longpressed_holo.9.png",
@@ -236,12 +236,12 @@
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_btn_check_off_holo_light.png"
     },
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_text_select_handle_middle.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_text_select_handle_middle.png"
-    },
-    {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/end_view.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/end_view.png"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_text_select_handle_middle.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_text_select_handle_middle.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/expander_ic_maximized.9.png",
@@ -256,12 +256,12 @@
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_scrubber_control_normal_holo.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_scrubber_control_normal_holo.png"
-    },
-    {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_scrubber_control_normal_holo.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_scrubber_control_normal_holo.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_scrubber_control_pressed_holo.png",
@@ -284,12 +284,12 @@
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_text_select_handle_right.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_text_select_handle_right.png"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_rate_star_big_off_holo_light.png",
@@ -376,12 +376,12 @@
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_progressbar_indeterminate_holo4.png"
     },
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_tab_unselected_pressed_holo.9.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_tab_unselected_pressed_holo.9.png"
-    },
-    {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_tab_unselected_pressed_holo.9.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_tab_unselected_pressed_holo.9.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mpower_switch_thumb_activated_holo_light.9.png",

@@ -88,12 +88,12 @@
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/drawable-xhdpi-v4/mpower_btn_check_off_pressed_holo_light.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_btn_check_off_pressed_holo_light.png"
-    },
-    {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/drawable-xhdpi-v4/swap_icon_a.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/swap_icon_a.png"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/drawable-xhdpi-v4/mpower_btn_check_off_pressed_holo_light.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_btn_check_off_pressed_holo_light.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/drawable-xhdpi-v4/mpowertext.png",
@@ -108,12 +108,12 @@
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_scrubber_track_holo_light.9.png"
     },
     {
-        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_menu_refresh.png",
-        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/ic_menu_refresh.png"
-    },
-    {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/drawable-xhdpi-v4/mpower_btn_radio_on_holo_light.png",
         "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/mpower_btn_radio_on_holo_light.png"
+    },
+    {
+        "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_menu_refresh.png",
+        "source": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/src/main/res/drawable-xhdpi/ic_menu_refresh.png"
     },
     {
         "merged": "/home/sabbir/AndroidStudioProjects/crgs/mPowerClientCollection/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
